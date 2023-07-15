@@ -104,6 +104,7 @@ nav ul li a:hover{
     height: 88%;
     position: absolute;
     bottom: 0;
+    top: 0;
     right: 100px;
 }
 
@@ -113,8 +114,7 @@ nav ul li a:hover{
     position: absolute;
     left: 60%;
     bottom: 0;
-    transform: translateX(-50%);
-    transition: bottom 1s, left 1s;
+    transition: 0ms;
 }
 
 
