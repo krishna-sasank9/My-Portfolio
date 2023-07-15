@@ -26,7 +26,14 @@ a{
     background: #eff4fd;
     position: relative;
 }
-
+.cont{
+    overflow: hidden;
+  background-color:aliceblue;
+  position: fixed; 
+  top: 0; 
+  width: 100%; 
+  z-index: 2;
+}
 nav{
     display: flex;
     width: 84%;
