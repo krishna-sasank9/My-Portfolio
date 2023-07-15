@@ -217,8 +217,8 @@ nav ul li a:hover{
 
 .bu{
     border: 5px;
-    margin:auto;
     padding: 20px;   
+    margin-left: 0px;
 }
 
 
@@ -269,4 +269,9 @@ footer{
 
 .social1 a:hover{
     color: orange;
+}
+
+/* media queries */
+@media (max-width: 1440px) {
+    
 }
